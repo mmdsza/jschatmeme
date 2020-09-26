@@ -1,3 +1,3 @@
-#Sample JS web app
+# Sample JS web app
 
 Learning
